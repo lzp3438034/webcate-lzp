@@ -1,0 +1,15 @@
+D:\Project\Test\StudentMM\WebCate\bin\Debug\WebCate.exe.config
+D:\Project\Test\StudentMM\WebCate\bin\Debug\WebCate.exe
+D:\Project\Test\StudentMM\WebCate\bin\Debug\WebCate.pdb
+D:\Project\Test\StudentMM\WebCate\bin\Debug\SunnyUI.Common.dll
+D:\Project\Test\StudentMM\WebCate\bin\Debug\SunnyUI.dll
+D:\Project\Test\StudentMM\WebCate\obj\Debug\WebCate.MainForm.resources
+D:\Project\Test\StudentMM\WebCate\obj\Debug\WebCate.Properties.Resources.resources
+D:\Project\Test\StudentMM\WebCate\obj\Debug\WebCate.csproj.GenerateResource.cache
+D:\Project\Test\StudentMM\WebCate\obj\Debug\WebCate.csproj.CoreCompileInputs.cache
+D:\Project\Test\StudentMM\WebCate\obj\Debug\WebCate.exe
+D:\Project\Test\StudentMM\WebCate\obj\Debug\WebCate.pdb
+D:\Project\Test\StudentMM\WebCate\obj\Debug\WebCate.UserControl1.resources
+D:\Project\Test\StudentMM\WebCate\obj\Debug\WebCate.csproj.AssemblyReference.cache
+D:\Project\Test\StudentMM\WebCate\obj\Debug\WebCate.Message.resources
+D:\Project\Test\StudentMM\WebCate\obj\Debug\WebCate.MsgUserControl1.resources
